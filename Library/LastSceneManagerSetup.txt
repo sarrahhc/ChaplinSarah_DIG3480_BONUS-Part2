@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/OffMeshLinks/OffMeshLinks.unity
+  isLoaded: 1
+  isActive: 1
